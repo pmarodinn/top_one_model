@@ -1,0 +1,68 @@
+{
+  "total_periodos": 8,
+  "sucessos": 8,
+  "falhas": 0,
+  "arquivos_coletados": [
+    {
+      "arquivo": "cesta_basica_dieese_2018_012018_122018.xls",
+      "ano": 2018,
+      "periodo": "012018-122018",
+      "tamanho_kb": 9.5,
+      "timestamp": "2025-08-11T18:12:24.780267"
+    },
+    {
+      "arquivo": "cesta_basica_dieese_2019_012019_122019.xls",
+      "ano": 2019,
+      "periodo": "012019-122019",
+      "tamanho_kb": 9.0,
+      "timestamp": "2025-08-11T18:12:48.641646"
+    },
+    {
+      "arquivo": "cesta_basica_dieese_2020_012020_122020.xls",
+      "ano": 2020,
+      "periodo": "012020-122020",
+      "tamanho_kb": 9.0,
+      "timestamp": "2025-08-11T18:13:09.868509"
+    },
+    {
+      "arquivo": "cesta_basica_dieese_2021_012021_122021.xls",
+      "ano": 2021,
+      "periodo": "012021-122021",
+      "tamanho_kb": 9.0,
+      "timestamp": "2025-08-11T18:13:30.682868"
+    },
+    {
+      "arquivo": "cesta_basica_dieese_2022_012022_122022.xls",
+      "ano": 2022,
+      "periodo": "012022-122022",
+      "tamanho_kb": 9.0,
+      "timestamp": "2025-08-11T18:13:51.546608"
+    },
+    {
+      "arquivo": "cesta_basica_dieese_2023_012023_122023.xls",
+      "ano": 2023,
+      "periodo": "012023-122023",
+      "tamanho_kb": 9.0,
+      "timestamp": "2025-08-11T18:14:12.613559"
+    },
+    {
+      "arquivo": "cesta_basica_dieese_2024_012024_122024.xls",
+      "ano": 2024,
+      "periodo": "012024-122024",
+      "tamanho_kb": 9.0,
+      "timestamp": "2025-08-11T18:14:33.631695"
+    },
+    {
+      "arquivo": "cesta_basica_dieese_2025_012025_072025.xls",
+      "ano": 2025,
+      "periodo": "012025-072025",
+      "tamanho_kb": 7.0,
+      "timestamp": "2025-08-11T18:14:54.726945"
+    }
+  ],
+  "erros": [],
+  "periodo_inicial": "2018",
+  "periodo_final": "2025",
+  "inicio_coleta": "2025-08-11T18:12:07.551983",
+  "fim_coleta": "2025-08-11T18:14:54.726963"
+}

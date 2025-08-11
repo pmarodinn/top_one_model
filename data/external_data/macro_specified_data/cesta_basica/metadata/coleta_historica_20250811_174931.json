@@ -1,0 +1,13 @@
+{
+  "total_periodos": 1,
+  "sucessos": 0,
+  "falhas": 1,
+  "arquivos_coletados": [],
+  "erros": [
+    "2023: name 'coletar_cesta_basica_dieese_async' is not defined"
+  ],
+  "periodo_inicial": "2023",
+  "periodo_final": "2023",
+  "inicio_coleta": "2025-08-11T17:49:31.767251",
+  "fim_coleta": "2025-08-11T17:49:31.767286"
+}

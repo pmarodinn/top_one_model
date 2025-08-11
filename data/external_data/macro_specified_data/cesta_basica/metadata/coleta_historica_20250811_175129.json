@@ -1,0 +1,19 @@
+{
+  "total_periodos": 1,
+  "sucessos": 1,
+  "falhas": 0,
+  "arquivos_coletados": [
+    {
+      "arquivo": "cesta_basica_dieese_2024_012024_122024.xls",
+      "ano": 2024,
+      "periodo": "012024-122024",
+      "tamanho_kb": 9.0,
+      "timestamp": "2025-08-11T17:51:29.751633"
+    }
+  ],
+  "erros": [],
+  "periodo_inicial": "2024",
+  "periodo_final": "2024",
+  "inicio_coleta": "2025-08-11T17:51:04.514112",
+  "fim_coleta": "2025-08-11T17:51:29.751646"
+}

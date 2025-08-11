@@ -1,0 +1,19 @@
+{
+  "total_periodos": 1,
+  "sucessos": 1,
+  "falhas": 0,
+  "arquivos_coletados": [
+    {
+      "arquivo": "cesta_basica_dieese_2023_012023_122023.xls",
+      "ano": 2023,
+      "periodo": "012023-122023",
+      "tamanho_kb": 9.0,
+      "timestamp": "2025-08-11T17:50:59.509237"
+    }
+  ],
+  "erros": [],
+  "periodo_inicial": "2023",
+  "periodo_final": "2023",
+  "inicio_coleta": "2025-08-11T17:50:39.619546",
+  "fim_coleta": "2025-08-11T17:50:59.509260"
+}
